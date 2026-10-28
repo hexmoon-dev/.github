@@ -1,5 +1,4 @@
 # Welcome!
 
-Coven of the Hexmoon is a game development studio.
-
-Here you will find public demos that you can use in your own projects.
+Hexmoon is a game development project catering to developers and artists.
+You're welcome to try your hand at building your personal, ambitious ideas with us.
